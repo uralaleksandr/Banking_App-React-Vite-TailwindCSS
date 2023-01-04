@@ -1,5 +1,5 @@
 # bank_modern_app
-A React-based application using Vite to improve and hone my skills in React, JavaScript, HTML, and CSS.
+A React-based application using Vite and Tailwind to improve and hone my skills in React, JavaScript, HTML, and CSS.
 
 Personal Project - Modern Banking Website
 
